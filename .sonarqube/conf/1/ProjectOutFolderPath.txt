@@ -1,0 +1,1 @@
+D:\MindTree Training\com\examples\DotNetSecurity\Mark2\JWTplusJquery\RedBusApp\.sonarqube\out\1
